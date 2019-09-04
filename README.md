@@ -1,4 +1,1 @@
-# repo_man
-test repository
-some text from the bash shell
-\n even more text!
+"\n and here's some text from the command line" 
